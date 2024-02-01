@@ -313,10 +313,11 @@ details[open] .details__box {
   padding-bottom: 65px;
   border-bottom: 1px solid #eaeaea;
 }
-.product__button {
-  display: flex;
+.product__link {
+  display: inline-flex;
+  justify-content: center;
   align-items: center;
-  padding: 15px 57px 9px 24px;
+  padding: 12px 24px;
   gap: 23px;
   border: 1px solid #f16d7f;
   margin: 0 auto;

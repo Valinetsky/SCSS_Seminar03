@@ -72,10 +72,11 @@
         padding-bottom: 65px;
         border-bottom: 1px solid #eaeaea;
     }
-    &__button {
-        display: flex;
+    &__link {
+        display: inline-flex;
+        justify-content: center;
         align-items: center;
-        padding: 15px 57px 9px 24px;
+        padding: 12px 24px;
         gap: 23px;
         border: 1px solid $accentColor;
         margin: 0 auto;
